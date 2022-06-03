@@ -1,0 +1,27 @@
+html,
+body,
+div,
+h1,
+img,
+header,
+section {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+header,
+section {
+    display: block;
+}
+
+body {
+    line-height: 0;
+}
+
+button {
+    padding: 0;
+}
